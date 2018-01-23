@@ -1,5 +1,5 @@
 {
-  "name": "react-native-navigation-rn52-demo",
+  "name": "react-native-navigation-rn51-demo",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,15 +7,16 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.2.0",
-    "react-native": "0.52.0",
-    "react-native-navigation": "^1.1.343"
+    "react": "16.0.0",
+    "react-native": "0.51.0",
+    "react-native-navigation":
+      "https://github.com/krystofcelba/react-native-navigation.git#rn52"
   },
   "devDependencies": {
     "babel-jest": "22.1.0",
     "babel-preset-react-native": "4.0.0",
     "jest": "22.1.1",
-    "react-test-renderer": "16.2.0"
+    "react-test-renderer": "16.0.0"
   },
   "jest": {
     "preset": "react-native"
