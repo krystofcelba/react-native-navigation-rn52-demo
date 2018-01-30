@@ -3535,9 +3535,9 @@ react-devtools-core@3.0.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-"react-native-navigation@https://github.com/krystofcelba/react-native-navigation.git#rn52-compatibility":
+"react-native-navigation@https://github.com/krystofcelba/react-native-navigation.git#rn52":
   version "1.1.314"
-  resolved "https://github.com/krystofcelba/react-native-navigation.git#71750da4205908c9a1a48119365d2eef1865fef4"
+  resolved "https://github.com/krystofcelba/react-native-navigation.git#c1baabf05208aee5a9cd64fb23368ade9961a5bb"
   dependencies:
     lodash "4.x.x"
 
